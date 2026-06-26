@@ -8,7 +8,7 @@
   "server": {
     "ip": "private-java-smp.aternos.me",
     "port": 46436,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
